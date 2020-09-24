@@ -1,0 +1,96 @@
+
+    
+
+
+
+.boton{
+    font-size: 30px;
+    background-color: blue;
+    color: white;
+    display: inline-block;
+    text-align: center;
+    width: 300px;
+    height: 50px; 
+}
+.boton:hover{
+    background-color: #008cba;
+}
+.boton2{
+    font-size: 30px;
+    background-color: blue;
+    color: white;
+    display: inline-block;
+    text-align: center;
+    width: 300px;
+    height: 50px;
+
+    margin-left: 30px;
+}
+.boton2:hover{
+    background-color: #008cba;
+}
+
+.boton3{
+    font-size: 30px;
+    background-color: blue;
+    color: white;
+    display: inline-block;
+    text-align: center;
+    width: 300px;
+    height: 50px;
+    margin-left: 30px;
+   
+}
+.boton3:hover{
+    background-color: #008cba;
+}
+
+.boton4{
+    font-size: 30px;
+    background-color: blue;
+    color: white;
+    display: inline-block;
+    text-align: center;
+    width: 300px;
+    height: 50px;
+
+    margin-left: 30px;
+   
+}
+.boton4:hover{
+    background-color: #008cba;
+}
+
+
+
+
+img{
+    float: left;
+    margin-right: 100px;
+}
+
+.ver-curriculum-vitae{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    text-align: center;
+    margin-left: 550px;
+    margin-right: 500px;
+}
+
+.boton-curriculum{
+    font-size: 30px;
+    display: inline-block;
+    text-align: center;
+    margin-left: 500px;
+    margin-right: 800px;
+    width: 300px;
+    height: 300px;
+}
+
+
+
+.form-control{
+    width: 300px;
+    height: 50px;
+}
